@@ -137,10 +137,10 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: #fff;
-  background: url(../img/bg-pattern.png), #7b4397;
-  background: url(../img/bg-pattern.png),
-    -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
-  background: url(../img/bg-pattern.png),
+  background: url(https://raw.githubusercontent.com/raubinsharya/nodejs-ex/master/bg-pattern.png), #7b4397;
+  background: url(https://raw.githubusercontent.com/raubinsharya/nodejs-ex/master/bg-pattern.png),
+    -webkit-gradient(linear, right top, left top, from(#716875), to(#dc2430));
+  background: url(https://raw.githubusercontent.com/raubinsharya/nodejs-ex/master/bg-pattern.png),
     linear-gradient(to left, #7b4397, #dc2430);
 }
 header.masthead .header-content {
